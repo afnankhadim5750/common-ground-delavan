@@ -1,0 +1,5 @@
+Business: Common Ground Bakery & Cafe, 310 Locust Street, Delavan, IL 61734 — a community-first bakery cafe with no standalone website (Facebook only).
+Why chosen: Verified local anchor with a distinct story — community garden Anticipation Acre, coat drive, and an annual Fall Block Party — plus a concrete breakfast menu and hours.
+Design direction: Swiss grid on a white base with deep moss green #3A5A40, sage tints and a muted slate accent; Libre Franklin display type with Lora body text; rectangular buttons and ruled, numbered sections.
+Signature elements: Horizontal image-carousel hero; a ruled menu board with a photo on every card; a community/events feature band covering the garden, the Fall Block Party and the coat drive.
+Unverified items: Instagram presence, prices, staff names, founding year, review counts/ratings, and Sunday/Monday hours — all omitted; the one-Saturday 08:00–10:00 staffing note is recorded in research.json only, not shown as regular hours.
